@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/eyllanesc" target="blank"><img src="https://img.shields.io/twitter/follow/eyllanesc?logo=twitter&style=for-the-badge" alt="eyllanesc" /></a> </p>
 
+<a href="https://stackoverflow.com/users/6622587/eyllanesc"><img src="https://stackoverflow.com/users/flair/6622587.png" width="208" height="58" alt="profile for eyllanesc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for eyllanesc at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 - 📫 How to reach me **e.yllanescucho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
