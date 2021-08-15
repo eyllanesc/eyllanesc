@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm eyllanesc</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BA95F&size=40&center=true&vCenter=true&lines=Hi%2C+I'm+eyllanesc)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Qt developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyllanesc&label=Profile%20views&color=0e75b6&style=flat" alt="eyllanesc" /> </p>
