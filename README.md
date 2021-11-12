@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BA95F&size=40&center=true&vCenter=true&lines=Hi%2C+I'm+eyllanesc)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BA95F&size=40&center=true&vCenter=true&lines=Hi%2C+I'm+jahan)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Qt developer</h3>
 
